@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>AorusPanel</AssemblyName>
+    <Product>AORUS Panel</Product>
+    <Description>LCD Edge View controller for the AORUS RTX 3070 MASTER</Description>
+    <Version>2.0.0</Version>
+    <Copyright>Copyright © 2026 Marci7408</Copyright>
+    <StartupObject>AorusPanel.Program</StartupObject>
+  </PropertyGroup>
+</Project>
